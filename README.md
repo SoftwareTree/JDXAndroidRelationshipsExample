@@ -14,7 +14,7 @@ Some highlights:
     -	Directed query,	Lazy loading, Auto primary-key
 *	JDXA provides handy utility methods for displaying an object or a list of objects.  
 
-#### This project is also presented in a video format on YouTube at https://youtu.be/VBAEsgdi5pU
+#### This project is also presented in a video format on YouTube at https://youtu.be/VBAEsgdi5pU (Part 1) and at https://youtu.be/1-2aE5ZI_rY (Part 2)
 
 To run this app in your own setup, please do the following:
 *	Clone this project on your desktop.
