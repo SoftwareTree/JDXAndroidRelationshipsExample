@@ -7,7 +7,7 @@ Some highlights:
 *	The object model consists of five inter-related POJO classes (SimpleCompany, SimpleDept, SimpleForeignLocation, SimpleEmp, and SimpleAddr):
     - SimpleEmp has a one-to-one relationship with SimpleDept and another one-to-one relationship with SimpleAddr.
     - SimpleCompany has a one-to-many relationship with SimpleDept and another one-to-many relationship with SimpleForeignLocation. 
-*	The declarative mapping specification is simple, intuitive, non-intrusive, and succinct.
+*	The declarative mapping specification (in the file .../res/raw/relationships_example.jdx) is simple, intuitive, non-intrusive, and succinct.
 *	Easy mechanism for preloading the database with new objects at the time of database creation.  
 *	API calls for CRUD operations are simple. They show the following features: 
     -	Deep query,	Shallow query, Named query
