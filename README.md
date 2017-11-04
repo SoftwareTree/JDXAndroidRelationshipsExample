@@ -18,7 +18,7 @@ This project shows a simple Android app using JDXA ORM to exchange data of the i
 
 #### This project is also presented in a video format on YouTube at https://youtu.be/VBAEsgdi5pU (Part 1) and at https://youtu.be/1-2aE5ZI_rY (Part 2)
 
-To run this app in your own setup, please do the following:
+#### To run this app in your own setup, please do the following:
 *	Clone this project on your desktop.
 *	Get the JDXA SDK download instructions from [this link](http://softwaretree.com/v1/products/jdxa/download-jdxa.php).
 *	You may download just the mini version of the SDK.
