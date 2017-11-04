@@ -3,7 +3,7 @@
 
 This project shows a simple Android app using JDXA ORM to exchange data of the inter-related objects with an on-device SQLite relational database. The object model used by this app has one-to-one and one-to-many relationships. A company has many departments and many foreign locations. An employee has an address and works in a department. 
 
-![JDXA Relationships Picture](https://softwaretree.com/v1/images/one-to-many-blended-img2_.jpg)
+![JDXA Relationships Picture](https://softwaretree.com/v1/images/one-to-many-blended-img2.jpg)
 
 #### Some highlights:  
 *	The object model consists of five inter-related POJO classes (SimpleCompany, SimpleDept, SimpleForeignLocation, SimpleEmp, and SimpleAddr):
